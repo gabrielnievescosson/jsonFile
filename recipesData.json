@@ -39,7 +39,8 @@
 	    {"id": "S2", "name":"Snack 2", "time":"60", "rating":"4.0", "image":"snacks.jpg"},
 	    {"id": "S3", "name":"Snack 3", "time":"45", "rating":"4.9", "image":"snacks.jpg"},
 	    {"id": "S4", "name":"Snack 4", "time":"50", "rating":"2.0", "image":"snacks.jpg"},
-	    {"id": "S5", "name":"Snack 5", "time":"30", "rating":"4.9", "image":"snacks.jpg"}
+	    {"id": "S5", "name":"Snack 5", "time":"30", "rating":"4.9", "image":"snacks.jpg"},
+	    {"id": "S6", "name":"Snack Prueba", "time":"20", "rating":"5", "image":"sopas.jpg"}
     ],
 
     "desserts": [
